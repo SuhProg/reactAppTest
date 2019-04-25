@@ -1,0 +1,46 @@
+[
+    {
+        "id": "0",
+        "name": "Action figure bombeiro Mario topzeira das galáxias",
+        "price": "189.90",
+        "deal": "149.90",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.",
+        "images": 
+        [
+            {"id": "1", "url": "../../img/Imagem 1.png", "thumb": "../../img/Imagem 2.png"}
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Action Figure Doctor Strange e Burning Flame Set - S.H.Figuarts",
+        "price": "624.90",
+        "deal": "725.90",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.",
+        "images": 
+        [
+            {"id": "1", "url": "../../img/action-figure-doctor-strange-e-burning-flame-set-shfiguarts-12797440.png", "thumb": "../../img/action-figure-doctor-strange-e-burning-flame-set-shfiguarts-12797440.png"}
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Action Figures - Super Mario Bros - Bandai",
+        "price": "189.90",
+        "deal": "149.90",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.",
+        "images": 
+        [
+            {"id": "1", "url": "../../img/Action-Figures---Super-Mario-Bros---Bandai-7503164.png", "thumb": "../../img/Action-Figures---Super-Mario-Bros---Bandai-7503164.png"}
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Figura Street Fighter Ryu",
+        "price": "5500.20",
+        "deal": "5259.00",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum asperiores, minus ratione dolorum facere facilis iure corporis et adipisci tempora temporibus ab mollitia esse odit cum! Corrupti et architecto facilis.",
+        "images": 
+        [
+            {"id": "1", "url": "../../img/figura-street-fighter-ryu-13821728.png", "thumb": "../../img/figura-street-fighter-ryu-13821728.png"}
+        ]
+    }
+]
